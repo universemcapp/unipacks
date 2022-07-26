@@ -1,2 +1,2 @@
 # unipacks
-Перенесено в: https://gitea.destony.dev/universeapp/universe-modpack
+Перенесено в: https://gitlab.com/universemcapp/universe-modpack
